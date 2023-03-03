@@ -53,6 +53,7 @@ Download the data set from [kaggle website](https://www.kaggle.com/c/fake-news/#
 * We can see an equal distribution between fake news and real news, indicating no chance of bias.
 #### 2. Specific count of words
 <img src="image/fakenews.jpg" width="500"> <img src="image/truenews.jpg" width="500">
+* We can see word that fake news contain mostly relate to politic. While True news does not contain too many of these word
 ### Build and evaluate model
 #### 1. Logistic regression
 <img src="image/logistic_heatmap.jpg" width="400"> <img src="image/logistic_report.jpg" width="400">
